@@ -18,7 +18,7 @@ pygmentsCodefencesGuessSyntax = true
     # id = "XXX"
 
 [Params]
-#  homeTitle = "DIDE Noticeboard" # Set a different text for the header on the home page
+  homeTitle = "DIDE Noticeboard" # Set a different text for the header on the home page
   subtitle = ""
   mainSections = ["post"]
   logo = "img/mrc.jpg" # Expecting square dimensions

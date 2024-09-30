@@ -18,8 +18,17 @@ organised into subfolders as required.
 
 Images should be saved to `static/img`
 
+## Local testing
+
+To test your content locally:
+1. Install hugo, as described [here](https://gohugo.io/installation/). You may find that the default version of hugo available
+for your operating system is too old to support the theme (this has been observed for Ubuntu). In this case you will need
+to download the [latest package version](https://github.com/gohugoio/hugo/releases/latest) and install from that.  
+2. Run `hugo server` and browse to `http://localhost:1313`. Content changes will be automatically built and reflected in the browser.
+
 ## Publishing
 
 Content will be published automatically to GitHub Pages, by a GitHub Action which runs when new commits are pushed or merged
 to the main branch. 
+
 

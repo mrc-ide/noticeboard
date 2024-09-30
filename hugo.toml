@@ -58,7 +58,7 @@ pygmentsCodefencesGuessSyntax = true
   twitter = "MRC_Outbreak"
 
 [[menu.main]]
-    name = "DIDE Blog"
+    name = "Blog"
     url = ""
     weight = 1
 

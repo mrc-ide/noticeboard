@@ -1,0 +1,91 @@
+baseurl = "https://username.github.io"
+DefaultContentLanguage = "en"
+title = "DIDE noticeboard"
+# Using theme as git submodule
+theme = "beautifulhugo"
+
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+
+[Services]
+  [Services.Disqus]
+    # Shortname = "XXX"
+  [Services.googleAnalytics]
+    # id = "XXX"
+
+[Params]
+#  homeTitle = "DIDE Noticeboard" # Set a different text for the header on the home page
+  subtitle = ""
+  mainSections = ["post"]
+  logo = "img/mrc.jpg" # Expecting square dimensions
+  favicon = ""
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = false
+  delayDisqus = true
+  showRelatedPosts = true
+#  cusdisID = "XXX" # Get your App id from cusdis.com
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+#  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Params.author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  name = "MRC GIDA"
+  website = "https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/"
+  github = "mrc-ide"
+  twitter = "MRC_Outbreak"
+
+[[menu.main]]
+    name = "DIDE Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Training"
+    url = "page/training/"
+    weight = 2
+
+[[menu.main]]
+    name = "Help"
+    url = "page/help/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "reside"
+    name = "Reside"
+    weight = 4
+
+[[menu.main]]
+    parent = "reside"
+    name = "General info"
+    url = "page/reside/"
+    weight = 1
+
+[[menu.main]]
+    parent = "reside"
+    name = "Reside Blog"
+    url = "https://reside-ic.github.io/"
+    weight = 2
+

@@ -1,7 +1,7 @@
 # Noticeboard
 
-This repository contains the content for the DIDE noticeboard website, and publishes the site on GitHub Pages to
-https://mrc-ide.github.io/noticeboard/
+This repository defines the content for the DIDE noticeboard website, and publishes the site on GitHub Pages to
+https://mrc-ide.github.io/noticeboard/ 
 
 The site is built with [Hugo](https://gohugo.io/), using the [Beautiful Hugo](https://github.com/halogenica/beautifulhugo.git) 
 theme (referenced as a submodule)
@@ -13,7 +13,7 @@ All content is written in [Markdown](https://github.com/halogenica/beautifulhugo
 To add a blog post which will automatically appear on the front page, create a new file in the `/content/post` folder, including
 title, author and date metadata, as shown in the example "first post" file. 
 
-To add a static page, create a new file in the `/content/page folder`. You can link to this from other pages, or add it to the 
+To add a static page, create a new file in the `/content/page` folder. You can link to your page from other pages, or add it to the 
 menu defined in `hugo.toml`, either as a top level item, or sub-menu item (by defining its `parent`). Pages can be 
 organised into subfolders as required.
 

@@ -10,7 +10,7 @@ Every 1-2 weeks we will have internal training, usually at 2pm on Thursday after
 * 21 November 2024: [**monty**](2024-monty) (previously mcstate) - Marc Baguelin
 * 05 December 2024: [**Advent of Code**](2024-aoc) - Wes Hinsley
 * 23 January 2025: [**Making R packages**](2025-r-packages) - Rich FitzJohn
-* 06 February 2025: [**Data cleaning in R**](2025-data-cleaning) - Wes Hinsley and Katy Gaythorpe
+* 06 February 2025: [**Data cleaning in R**](2025-data-cleaning) - Katy Gaythorpe and Wes Hinsley
 * 20 February 2025: [**Advanced cluster usage**](2025-advanced-cluster) - Wes Hinsley
 * 06 March 2025: **Writing your first grant or fellowship application** - Tom Churcher and Julie Middleton
 * 20 March 2025: **An introduction to Health Economics** Hugo Turner

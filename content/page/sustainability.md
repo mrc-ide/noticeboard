@@ -6,4 +6,4 @@
 
 ## Contacts
 
-Katy Gaythorpe
+<a href="mailto:k.gaythorpe@imperial.ac.uk">Katy Gaythorpe</a>

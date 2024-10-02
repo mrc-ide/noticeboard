@@ -79,7 +79,7 @@ pygmentsCodefencesGuessSyntax = true
     
 [[menu.main]]
     name = "Sustainability"
-    url = "page/Sustainability/"
+    url = "page/sustainability/"
     weight = 5
 
 [[menu.main]]

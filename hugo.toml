@@ -73,9 +73,19 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
 [[menu.main]]
+    name = "Social"
+    url = "page/social/"
+    weight = 4
+    
+[[menu.main]]
+    name = "Sustainability"
+    url = "page/Sustainability/"
+    weight = 5
+
+[[menu.main]]
     identifier = "reside"
     name = "Reside"
-    weight = 4
+    weight = 6
 
 [[menu.main]]
     parent = "reside"

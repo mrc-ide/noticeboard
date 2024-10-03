@@ -6,7 +6,8 @@
 
 ## Coming up
 
-* Frights and bites bake-off ![frights and bites AI generated poster](./social_files/frights_and_bites.png){width=250px}
+* Frights and bites bake-off <img src="./social_files/frights_and_bites.png" alt="frights and bites AI generated poster" width="200"/>
+
 12.30 - 13.30 24th October
 
 ## Past events

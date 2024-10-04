@@ -8,7 +8,7 @@
 
 * Frights and bites bake-off 
 
-<img src="./social_files/frights_and_bites.png" alt="frights and bites AI generated poster" width="300"/>
+![frights and bites AI generated poster](/img/frights_and_bites.png)
 
 12.30 - 13.30 24th October
 

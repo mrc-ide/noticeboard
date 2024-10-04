@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "https://mrc-ide.github.io/noticeboard/"
 DefaultContentLanguage = "en"
 title = "DIDE noticeboard"
 # Using theme as git submodule

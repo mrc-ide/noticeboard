@@ -18,7 +18,7 @@ menu defined in `hugo.toml`, either as a top level item, or sub-menu item (by de
 organised into subfolders as required.
 
 Images should be saved to `static/img` which are deployed to a top-level `img` folder. 
-When including links to images, you'll need to set the path to this relative to the page or post you're working in e.g. to link
+When including links to images, you'll need to set the image path relative to the page or post you're working in e.g. to link
 to `img/frights_and_bites.png` from `page/social.md`, the path is `../../img/frights_and_bites.png`.
 
 ## Local testing

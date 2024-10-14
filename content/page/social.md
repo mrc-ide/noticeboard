@@ -6,9 +6,6 @@
 
 ## Coming up
 
-* Cocktail night and leaving drinks for Lucy Willams
-  5pm 11th October Uren building
-
 * Frights and bites bake-off 
 
 ![frights and bites AI generated poster](../../img/frights_and_bites.png)
@@ -16,6 +13,9 @@
 12.30 - 13.30 24th October
 
 ## Past events
+
+* Cocktail night and leaving drinks for Lucy Williams
+  5pm 11th October Uren building
 
 ## Contacts
 

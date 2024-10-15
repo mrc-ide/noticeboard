@@ -4,10 +4,12 @@ name: Publish Hugo site to Pages
 
 on:
   # Runs on pushes targeting the default branch
+  pull_request:
+    branches:
+      - main
   push:
     branches:
       - main
-      - image-resource
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -63,12 +65,14 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
+        if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
   # Deployment job
   deploy:
+    if: github.event_name != 'pull_request'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

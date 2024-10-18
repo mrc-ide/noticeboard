@@ -2,9 +2,11 @@
 
 ## Social calendar
 
-[Click here for shared calendar](https://outlook.office365.com/owa/calendar/6aac4f3cd5c14f7596ff96d463425c49@imperial.ac.uk/be78b35d280f4ad5be57b18a7a0e29285218192955509845337/calendar.html)
+[Click to open shared calendar](https://outlook.office365.com/owa/calendar/6aac4f3cd5c14f7596ff96d463425c49@imperial.ac.uk/be78b35d280f4ad5be57b18a7a0e29285218192955509845337/calendar.html) or [click here to download .ics](https://outlook.office365.com/owa/calendar/6aac4f3cd5c14f7596ff96d463425c49@imperial.ac.uk/be78b35d280f4ad5be57b18a7a0e29285218192955509845337/calendar.ics).
 
 ## Coming up
+
+* Giovanni Charles PhD post-viva celebration 21st October
 
 * Frights and bites bake-off : sign up [here](https://forms.office.com/Pages/ResponsePage.aspx?id=B3WJK4zudUWDC0-CZ8PTB3K1CztCIehAjI44BDXnK7pUM1c0TkdaUVVLUEtFTldRSE9TNEZRQzQzMi4u)
 

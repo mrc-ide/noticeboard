@@ -12,7 +12,7 @@
 
 ![frights and bites AI generated poster](../../img/frights_and_bites.png)
 
-12.30 - 13.30 24th October
+11.30 - 12.20 24th October
 
 ## Past events
 

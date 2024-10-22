@@ -21,4 +21,6 @@
 
 ## Contacts
 
-<a href="mailto:k.gaythorpe@imperial.ac.uk">Katy Gaythorpe</a>
+If you are a PhD student, there are more socials. Please contact <a href="mailto:n.derqui-fernandez@imperial.ac.uk">Nieves</a> or <a href="mailto:k.mccain22@imperial.ac.uk">Kelly</a> for upcoming events.
+
+General queries: <a href="mailto:k.gaythorpe@imperial.ac.uk">Katy Gaythorpe</a>

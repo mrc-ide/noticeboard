@@ -6,8 +6,6 @@
 
 ## Coming up
 
-* Giovanni Charles PhD post-viva celebration 21st October
-
 * Frights and bites bake-off : sign up [here](https://forms.office.com/Pages/ResponsePage.aspx?id=B3WJK4zudUWDC0-CZ8PTB3K1CztCIehAjI44BDXnK7pUM1c0TkdaUVVLUEtFTldRSE9TNEZRQzQzMi4u)
 
 ![frights and bites AI generated poster](../../img/frights_and_bites.png)
@@ -15,6 +13,8 @@
 11.30 - 12.20 24th October
 
 ## Past events
+
+* Giovanni Charles PhD post-viva celebration 21st October
 
 * Cocktail night and leaving drinks for Lucy Williams
   5pm 11th October Uren building

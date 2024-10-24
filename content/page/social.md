@@ -6,6 +6,10 @@
 
 ## Coming up
 
+* Forthcoming pub trips (probably to The Pavillion, but TBC)
+- Thursday October 31st
+- Tuesday November 26th
+
 * Frights and bites bake-off : sign up [here](https://forms.office.com/Pages/ResponsePage.aspx?id=B3WJK4zudUWDC0-CZ8PTB3K1CztCIehAjI44BDXnK7pUM1c0TkdaUVVLUEtFTldRSE9TNEZRQzQzMi4u)
 
 ![frights and bites AI generated poster](../../img/frights_and_bites.png)

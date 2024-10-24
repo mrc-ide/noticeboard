@@ -7,16 +7,13 @@
 ## Coming up
 
 * Forthcoming pub trips (probably to The Pavillion, but TBC)
-- Thursday October 31st
-- Tuesday November 26th
-
-* Frights and bites bake-off : sign up [here](https://forms.office.com/Pages/ResponsePage.aspx?id=B3WJK4zudUWDC0-CZ8PTB3K1CztCIehAjI44BDXnK7pUM1c0TkdaUVVLUEtFTldRSE9TNEZRQzQzMi4u)
-
-![frights and bites AI generated poster](../../img/frights_and_bites.png)
-
-11.30 - 12.20 24th October
+    * Thursday October 31st
+    * Tuesday November 26th
 
 ## Past events
+
+* Frights and bites bake-off 24th October
+![frights and bites AI generated poster](../../img/frights_and_bites.png)
 
 * Giovanni Charles PhD post-viva celebration 21st October
 
@@ -25,6 +22,6 @@
 
 ## Contacts
 
-If you are a PhD student, there are more socials. Please contact <a href="mailto:n.derqui-fernandez@imperial.ac.uk">Nieves</a> or <a href="mailto:k.mccain22@imperial.ac.uk">Kelly</a> for upcoming events.
+If you are a PhD student, there are more socials. Please contact [Nieves](mailto:n.derqui-fernandez@imperial.ac.uk) or [Kelly](mailto:k.mccain22@imperial.ac.uk) for upcoming events.
 
-General queries: <a href="mailto:k.gaythorpe@imperial.ac.uk">Katy Gaythorpe</a>
+General queries: [Katy](mailto:k.gaythorpe@imperial.ac.uk)

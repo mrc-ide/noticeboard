@@ -5,6 +5,7 @@
 [Click to open shared calendar](https://outlook.office365.com/owa/calendar/6aac4f3cd5c14f7596ff96d463425c49@imperial.ac.uk/be78b35d280f4ad5be57b18a7a0e29285218192955509845337/calendar.html) or [click here to download .ics](https://outlook.office365.com/owa/calendar/6aac4f3cd5c14f7596ff96d463425c49@imperial.ac.uk/be78b35d280f4ad5be57b18a7a0e29285218192955509845337/calendar.ics).
 
 ## Coming up
+*Walk to wormwood scrubs on Wednesday 30th October, 1pm
 
 * Forthcoming pub trips (probably to The Pavillion, but TBC)
     * Thursday October 31st

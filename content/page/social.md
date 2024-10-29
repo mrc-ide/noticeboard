@@ -10,6 +10,8 @@
 * Forthcoming pub trips (probably to The Pavillion, but TBC)
     * Thursday October 31st
     * Tuesday November 26th
+    
+* Lucy Williams PhD post-viva celebration 4th November
 
 ## Past events
 

@@ -2,6 +2,8 @@
 
 ## Upcoming events
 
+* Social walk 30th October 1pm
+
 * Next sustainability group meeting: 5th December 11.00 room TBC/ online
 
 For notes from previous meetings, please see the sustainability channel on Teams.

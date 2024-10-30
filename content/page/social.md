@@ -16,7 +16,6 @@
 ## Past events
 
 * Frights and bites bake-off 24th October
-![frights and bites AI generated poster](../../img/frights_and_bites.png)
 
 * Giovanni Charles PhD post-viva celebration 21st October
 

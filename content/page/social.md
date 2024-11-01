@@ -9,10 +9,10 @@
 ## Coming up
 
 * Coffee meet-up @ level 2 SPH [every Tuesday 12-12.30 until the Winter break]
-
-* Pub trip @ TBC (probably Pavillion), 26th November
     
 * Lucy Williams PhD post-viva celebration 4th November
+
+* Pub trip @ TBC (probably Pavillion), 26th November
 
 * DIDE Christmas lunch @ Puttshack 11th December
 

@@ -10,7 +10,7 @@
 
 * Coffee meet-up @ level 2 SPH [every Tuesday 12-12.30 until the Winter break]
 
-* Pub trip @ TBC (probably Pavilion), 26th November
+* Pub trip @ TBC (probably Pavillion), 26th November
     
 * Lucy Williams PhD post-viva celebration 4th November
 

@@ -6,12 +6,15 @@
 
 ## Coming up
 * Forthcoming pub trips (probably to The Pavillion, but TBC)
-    * Thursday October 31st
     * Tuesday November 26th
     
 * Lucy Williams PhD post-viva celebration 4th November
 
+* DIDE Christmas lunch @ Puttshack 11th December
+
 ## Past events
+* Pub trip: Oct 31st @ The Pavillion
+
 * Walk to Wormwood scrubs on Wednesday 30th October, 1pm
 
 * Frights and bites bake-off 24th October

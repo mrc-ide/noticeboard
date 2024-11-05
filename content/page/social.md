@@ -8,6 +8,8 @@
 
 ## Coming up
 
+* Walk to Kensington Memorial Park on Wednesday 6th November at 1pm (meet in the SPH foyer)
+
 * Coffee meet-up @ level 2 SPH [every Tuesday 12-12.30 until the Winter break]
     
 * Lucy Williams PhD post-viva celebration 4th November

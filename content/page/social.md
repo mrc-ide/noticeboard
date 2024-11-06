@@ -35,4 +35,4 @@
 
 If you are a PhD student, there are more socials. Please contact [Nieves](mailto:n.derqui-fernandez@imperial.ac.uk) or [Kelly](mailto:k.mccain22@imperial.ac.uk) for upcoming events.
 
-General queries: [Katy](mailto:k.gaythorpe@imperial.ac.uk)
+General queries: [DIDE social committee](mailto:dide-social@imperial.ac.uk)

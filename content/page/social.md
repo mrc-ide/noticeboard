@@ -10,14 +10,14 @@
 
 * Coffee meet-up @ level 2 SPH [every Tuesday 12-12.30 until the Winter break]
 
-* Walk to Kensington Memorial 6th Nov 1pm [meet in SPH foyer]
-
 * Pub trip @ TBC (probably Pavillion), 26th November
 
 * DIDE Christmas lunch @ Puttshack 11th December
 
 ## Past events
-    
+
+* Walk to Kensington Memorial 6th Nov 1pm [meet in SPH foyer]
+
 * Lucy Williams PhD post-viva celebration 4th November
 
 * Pub trip: Oct 31st @ The Pavillion

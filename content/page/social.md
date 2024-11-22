@@ -10,13 +10,25 @@
 
 * Coffee meet-up @ level 2 SPH [every Tuesday 12-12.30 until the Winter break]
 
-
-* Pub trip @ TBC (probably Pavillion), 26th November
+* Pub trip @ TBC (probably Pavillion), Tuesday 26th November
 
 * DIDE Christmas lunch @ Puttshack 11th December
 
+## Events by MOVE Imperial
+
+* Pilates @ Collabor88 by Move Imperial Monday 18.30-19.30 [every Mon until Dec 13th - meet in the SPH foyer 5 min before]
+
+* Mindful Movement @ Collabor88 by Move Imperial Tues 18.00-19.00 [every Tuesday until Dec 13th - meet in the SPH foyer 5 min before]
+
+* Social run club @ Michael Uren Hub by Move Imperial Weds 12.55-13.45 [every Wednesday until Dec 13th - meet in the SPH foyer 5 min before]
+
+* 5-a-side football @ Scale Space by Move Imperial Weds 17.00-18.00 [every Wednesday until Dec 13th - meet in the SPH foyer 10 min before]
+
+* Yoga @ Collabor88 by Move Imperial Thursday 12.30-13.30 [every Thursday until Dec 13th - meet in the SPH foyer 5 min before]
+
+
 ## Past events
- 
+
 * Walk to Kensington Memorial 6th Nov 1pm [meet in SPH foyer]
 
 * Lucy Williams PhD post-viva celebration 4th November

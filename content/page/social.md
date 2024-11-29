@@ -10,8 +10,6 @@
 
 * Coffee meet-up @ level 2 SPH [every Tuesday 12-12.30 until the Winter break]
 
-* Pub trip @ TBC (probably Pavillion), Tuesday 26th November
-
 * DIDE Christmas lunch @ Puttshack 11th December
 
 ## Events by MOVE Imperial
@@ -28,6 +26,8 @@
 
 
 ## Past events
+
+* Pub trip @ Pavillion, Tuesday 26th November
 
 * Walk to Kensington Memorial 6th Nov 1pm [meet in SPH foyer]
 

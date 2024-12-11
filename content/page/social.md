@@ -11,6 +11,8 @@
 * Coffee meet-up @ level 2 SPH [every Tuesday 12-12.30 until the Winter break]
 
 * DIDE Christmas lunch @ Puttshack 11th December
+  
+* Cyril Geisner PhD post-viva celebration 16th December
 
 ## Events by MOVE Imperial
 

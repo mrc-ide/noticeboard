@@ -12,7 +12,7 @@
 
 * DIDE Christmas lunch @ Puttshack 11th December
   
-* Cyril Geisner PhD post-viva celebration 16th December
+* Cyril Geismar PhD post-viva celebration 16th December
 
 ## Events by MOVE Imperial
 

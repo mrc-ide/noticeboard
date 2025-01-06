@@ -1,33 +1,30 @@
 # Social
 
-[Social survey](https://forms.gle/KC9pEdhDQK7KJWRn9)
-
 ## Social calendar
 
 [Click to open shared calendar](https://outlook.office365.com/owa/calendar/d3495141dd604a45b1a70bcec775574c@imperial.ac.uk/96f193142b4a41d9a6e4946634663c5817212224041536648077/calendar.html) or [click here to download .ics](https://outlook.office365.com/owa/calendar/d3495141dd604a45b1a70bcec775574c@imperial.ac.uk/96f193142b4a41d9a6e4946634663c5817212224041536648077/calendar.ics).
 
 ## Coming up
 
-* Coffee meet-up @ level 2 SPH [every Tuesday 12-12.30 until the Winter break]
+* Coffee meet-up @ level 2 SPH [every Tuesday 12-12.30]
 
-* DIDE Christmas lunch @ Puttshack 11th December
-  
-* Cyril Geismar PhD post-viva celebration 16th December
 
 ## Events by MOVE Imperial
 
-* Pilates @ Collabor88 by Move Imperial Monday 18.30-19.30 [every Mon until Dec 13th - meet in the SPH foyer 5 min before]
+* Pilates @ Collabor88 by Move Imperial Monday 18.30-19.30 [every Mon until March 21st - meet in the SPH foyer 5 min before]
 
-* Mindful Movement @ Collabor88 by Move Imperial Tues 18.00-19.00 [every Tuesday until Dec 13th - meet in the SPH foyer 5 min before]
+* Yoga @ Collabor88 by Move Imperial Tuesday 18.00-19.00 [every Tuesday until March 21st - meet in the SPH foyer 5 min before]
 
-* Social run club @ Michael Uren Hub by Move Imperial Weds 12.55-13.45 [every Wednesday until Dec 13th - meet in the SPH foyer 5 min before]
+* Social run club @ Michael Uren Hub by Move Imperial Weds 12.55-13.45 [every Wednesday until March 21st - meet in the SPH foyer 5 min before]
 
-* 5-a-side football @ Scale Space by Move Imperial Weds 17.00-18.00 [every Wednesday until Dec 13th - meet in the SPH foyer 10 min before]
-
-* Yoga @ Collabor88 by Move Imperial Thursday 12.30-13.30 [every Thursday until Dec 13th - meet in the SPH foyer 5 min before]
+* 5-a-side football @ Scale Space by Move Imperial Weds 17.00-18.00 [most Wednesdays until March 21st - meet in the SPH foyer 10 min before]
 
 
 ## Past events
+  
+* Cyril Geismar PhD post-viva celebration 16th December
+
+* DIDE Christmas lunch @ Puttshack 11th December
 
 * Pub trip @ Pavillion, Tuesday 26th November
 

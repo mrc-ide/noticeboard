@@ -7,7 +7,9 @@
 ## Coming up
 
 * Coffee meet-up @ level 2 SPH [every Tuesday 12-12.30]
+  
 * Pub trip @ Pavillion, Thursday 23rd January
+  
 * Pub trip (venue TBC), Thursday 6th February
 
 

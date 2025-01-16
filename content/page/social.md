@@ -6,7 +6,9 @@
 
 ## Coming up
 
-* Coffee meet-up @ level 2 SPH [every Tuesday 12-12.30]
+* Walk Wednesday 22nd January, meet at 1pm in the foyer
+
+* Coffee meet-up, level 4, Thursday 23rd January at 1.30pm
   
 * Pub trip @ Pavillion, Thursday 23rd January
   

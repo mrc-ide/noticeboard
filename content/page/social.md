@@ -6,7 +6,7 @@
 
 ## Coming up
 
-* Walk Wednesday 22nd January, meet at 1pm in the foyer
+* Walk Wednesday 22nd January, meet at 12.30pm in the foyer
 
 * Coffee meet-up, level 4, Thursday 23rd January at 1.30pm
   

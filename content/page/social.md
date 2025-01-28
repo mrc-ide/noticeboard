@@ -6,16 +6,9 @@
 
 ## Coming up
 
-* Walk Wednesday 22nd January, meet at 12.30pm in the foyer
-
-* Coffee meet-up, level 4, Thursday 23rd January at 1.30pm
-  
-* Pub trip @ Pavillion, Thursday 23rd January
-
-* DIDE Book Appreication Club, Monday 27th January at 1pm, SPH 413
-  
 * Pub trip (venue TBC), Thursday 6th February
 
+* DIDE Book Appreciation Club, Thursday 13th February 12 noon, venue TBC
 
 ## Events by MOVE Imperial
 
@@ -29,7 +22,15 @@
 
 
 ## Past events
+
+* DIDE Book Appreciation Club, Monday 27th January at 1pm, SPH 413
+
+* Pub trip @ Pavillion, Thursday 23rd January
   
+* Coffee meet-up, level 4, Thursday 23rd January at 1.30pm
+  
+* Walk Wednesday 22nd January, meet at 12.30pm in the foyer
+
 * Cyril Geismar PhD post-viva celebration 16th December
 
 * DIDE Christmas lunch @ Puttshack 11th December

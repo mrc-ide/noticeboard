@@ -11,6 +11,8 @@
 * Coffee meet-up, level 4, Thursday 23rd January at 1.30pm
   
 * Pub trip @ Pavillion, Thursday 23rd January
+
+* DIDE Book Appreication Club, Monday 27th January at 1pm, SPH 413
   
 * Pub trip (venue TBC), Thursday 6th February
 

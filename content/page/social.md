@@ -10,6 +10,10 @@
 
 * DIDE Book Appreciation Club, Thursday 13th February 12 noon, venue TBC
 
+* Boardgames night, Thursday 27th February
+
+* OPEN FOR ENTRIES: DIDE photo competition, deadline 21st February, theme is KINDNESS [Click here for entry form](https://forms.gle/ceBQ7XKgXFZBoC71A)
+
 ## Events by MOVE Imperial
 
 * Pilates @ Collabor88 by Move Imperial Monday 18.30-19.30 [every Mon until March 21st - meet in the SPH foyer 5 min before]

@@ -16,13 +16,13 @@
 
 ## Events by MOVE Imperial
 
-* Pilates @ Collabor88 by Move Imperial Monday 18.30-19.30 [every Mon until March 21st - meet in the SPH foyer 5 min before]
+* Pilates @ Collabor88 by Move Imperial Monday 18.30-19.30 [every Mon until March 21st]
 
-* Yoga @ Collabor88 by Move Imperial Tuesday 18.00-19.00 [every Tuesday until March 21st - meet in the SPH foyer 5 min before]
+* Yoga @ Collabor88 by Move Imperial Tuesday 18.00-19.00 [every Tuesday until March 21st]
 
-* Social run club @ Michael Uren Hub by Move Imperial Weds 12.55-13.45 [every Wednesday until March 21st - meet in the SPH foyer 5 min before]
+* Social run club @ Michael Uren Hub by Move Imperial Weds 12.55-13.45 [every Wednesday until March 21st]
 
-* 5-a-side football @ Scale Space by Move Imperial Weds 17.00-18.00 [most Wednesdays until March 21st - meet in the SPH foyer 10 min before]
+* 5-a-side football @ Scale Space by Move Imperial Weds 17.00-18.00 [most Wednesdays until March 21st]
 
 
 ## Past events

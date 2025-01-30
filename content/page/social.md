@@ -10,7 +10,7 @@
 
 * DIDE Book Appreciation Club, Thursday 13th February 12 noon, venue TBC
 
-* Boardgames night, Thursday 27th February
+* Boardgames night (with snacks), Thursday 27th February 5.15 room 313. All are very welcome to join, and no need to know any games in advance as we will bring and explain them. We aim to cater to different tastes, from a 5 minute card game to an in depth game of strategy, including as options Codenames, Exploding Kittens, Settlers of Catan, Uno and other new and classic games. Feel free to bring any others! Depending on numbers and time we will see how many we can try out…
 
 * OPEN FOR ENTRIES: DIDE photo competition, deadline 21st February, theme is KINDNESS [Click here for entry form](https://forms.gle/ceBQ7XKgXFZBoC71A)
 

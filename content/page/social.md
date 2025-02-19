@@ -12,6 +12,8 @@
 
 * OPEN FOR ENTRIES: DIDE photo competition, deadline 21st February, theme is KINDNESS [Click here for entry form](https://forms.gle/ceBQ7XKgXFZBoC71A)
 
+* Bouldering at [City Bouldering, White City](https://www.citybouldering.co.uk/locations/white-city), Thursday 13th March from 17:30(ish). See the [`Bouldering`](https://teams.microsoft.com/l/channel/19%3ac670ba9048344213b0736a2348a1e709%40thread.tacv2/Bouldering?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307) channel on Teams for details and any questions.
+
 ## Events by MOVE Imperial
 
 * Pilates @ Collabor88 by Move Imperial Monday 18.30-19.30 [every Mon until March 21st]

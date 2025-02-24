@@ -8,7 +8,7 @@
 
 * DIDE Book Appreciation Club, TBC but a Thursday lunchtime
 
-* Put trip @ Pavillion, Thursday 20th February
+* Pup trip (venue TBC), Thursday 6th March
 
 * Boardgames night (with snacks), Thursday 27th February 5.15 room 313. All are very welcome to join, and no need to know any games in advance as we will bring and explain them. We aim to cater to different tastes, from a 5 minute card game to an in depth game of strategy, including as options Codenames, Exploding Kittens, Settlers of Catan, Uno and other new and classic games. Feel free to bring any others! Depending on numbers and time we will see how many we can try out…
 

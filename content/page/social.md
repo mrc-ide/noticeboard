@@ -6,11 +6,13 @@
 
 ## Coming up
 
-* DIDE Book Appreciation Club, TBC but a Thursday lunchtime
-
 * Boardgames night (with snacks), Thursday 27th February 5.15 room 313. All are very welcome to join, and no need to know any games in advance as we will bring and explain them. We aim to cater to different tastes, from a 5 minute card game to an in depth game of strategy, including as options Codenames, Exploding Kittens, Settlers of Catan, Uno and other new and classic games. Feel free to bring any others! Depending on numbers and time we will see how many we can try out…
 
 * VOTING OPEN: DIDE photo competition, deadline for votes noon 28th February [Click here for entries](https://docs.google.com/presentation/d/1lxoOcNv-pAZN7EjqRhxppa_aNS3Fef3GezUVEqa01gY/edit?usp=sharing) and [click here to vote](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1740154095947?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1740154095947&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1740154095947)
+
+* DIDE Book Appreciation Club, 6th March 12.30 room 713 and every 2 weeks after
+
+* Pub trip @ TBC, Tuesday 11th March
 
 * Bouldering at [City Bouldering, White City](https://www.citybouldering.co.uk/locations/white-city), Thursday 13th March from 17:30(ish). See the [`Bouldering`](https://teams.microsoft.com/l/channel/19%3ac670ba9048344213b0736a2348a1e709%40thread.tacv2/Bouldering?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307) channel on Teams for details and any questions.
 

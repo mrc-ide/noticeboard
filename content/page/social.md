@@ -30,17 +30,13 @@
 
 ## Past events
 
+* DIDE Book Appreciation Club, last meeting 6th March
+
 * February photo competition: congratulations to our winner Pete!
 
-* Boardgames night (with snacks), Thursday 27th February 5.15 room 313. All are very welcome to join, and no need to know any games in advance as we will bring and explain them. We aim to cater to different tastes, from a 5 minute card game to an in depth game of strategy, including as options Codenames, Exploding Kittens, Settlers of Catan, Uno and other new and classic games. Feel free to bring any others! Depending on numbers and time we will see how many we can try out…
+* Boardgames night (with snacks), Thursday 27th February
 
-* Pub trip @ Pavilion, Thursday 20th February
-
-* Pub trip @ Pavilion, Thursday 6th February
-
-* DIDE Book Appreciation Club, Monday 27th January at 1pm, SPH 413
-
-* Pub trip @ Pavilion, Thursday 23rd January
+* Pub trip @ Pavilion Various dates, last trip 11th March
   
 * Coffee meet-up, level 4, Thursday 23rd January at 1.30pm
   
@@ -50,13 +46,9 @@
 
 * DIDE Christmas lunch @ Puttshack 11th December
 
-* Pub trip @ Pavilion, Tuesday 26th November
-
 * Walk to Kensington Memorial 6th Nov 1pm [meet in SPH foyer]
 
 * Lucy Williams PhD post-viva celebration 4th November
-
-* Pub trip: Oct 31st @ The Pavillion
 
 * Walk to Wormwood scrubs on Wednesday 30th October, 1pm
 

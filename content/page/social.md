@@ -6,13 +6,16 @@
 
 ## Coming up
 
+* Bouldering at [City Bouldering, White City](https://www.citybouldering.co.uk/locations/white-city), Thursday 13th March from 17:30(ish). See the [`Bouldering`](https://teams.microsoft.com/l/channel/19%3ac670ba9048344213b0736a2348a1e709%40thread.tacv2/Bouldering?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307) channel on Teams for details and any questions.
+
 * March DIDE photo competition, theme: TINY BUT MIGHTY, deadline for entries noon 21st March [Click herefor entry form](https://forms.gle/7vifdj58uDV1J14NA) or email your entry to dide-social@imperial.ac.uk
 
-* DIDE Book Appreciation Club, 6th March 12.30 room 205
+* DIDE Book Appreciation Club, 20th March 12.30
 
-* Pub trip @ TBC, Tuesday 11th March
+* Boardgames night Tuesday 25th March 17.00 The Works
 
-* Bouldering at [City Bouldering, White City](https://www.citybouldering.co.uk/locations/white-city), Thursday 13th March from 17:30(ish). See the [`Bouldering`](https://teams.microsoft.com/l/channel/19%3ac670ba9048344213b0736a2348a1e709%40thread.tacv2/Bouldering?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307) channel on Teams for details and any questions.
+* Pub trip - A Thursday coming soon [watch this space]
+
 
 ## Events by MOVE Imperial
 

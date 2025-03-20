@@ -14,7 +14,7 @@
 
 * Boardgames night Tuesday 25th March 17.00 The Works
 
-* Pub trip - A Thursday coming soon [watch this space]
+* Pub trip - Thursday 27th March [Location TBC]
 
 
 ## Events by MOVE Imperial

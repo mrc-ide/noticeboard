@@ -14,7 +14,7 @@
 
 * Boardgames night Tuesday 25th March 17.00 The Works
 
-* Pub trip - Thursday 27th March [Location TBC]
+* Pub trip - Thursday 27th March [11th Floor Cocktail Club in the Uren Building, followed by the Pavillion]
 
 
 ## Events by MOVE Imperial

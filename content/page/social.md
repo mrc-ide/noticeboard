@@ -6,18 +6,23 @@
 
 ## Coming up
 
-* Bouldering at [City Bouldering, White City](https://www.citybouldering.co.uk/locations/white-city), Thursday 13th March from 17:30(ish). See the [`Bouldering`](https://teams.microsoft.com/l/channel/19%3ac670ba9048344213b0736a2348a1e709%40thread.tacv2/Bouldering?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307) channel on Teams for details and any questions.
+* April DIDE photo competition, theme: photos from my holiday/college closure, deadline for entries noon 29th April [Click here for entry form](https://forms.gle/tVEavFUxAJFEYCxN9) or email your entry to dide-social@imperial.ac.uk
 
-* March DIDE photo competition, theme: TINY BUT MIGHTY, deadline for entries noon 21st March [Click herefor entry form](https://forms.gle/7vifdj58uDV1J14NA) or email your entry to dide-social@imperial.ac.uk
+* French language coffee: Next Thurs 3rd April 11am SPH L4 kitchen
 
-* DIDE Book Appreciation Club, 20th March 12.30
+* DIDE Book Appreciation Club,  Thursday 12.30 every 2 weeks. Next happening 3rd April
 
-* Boardgames night Tuesday 25th March 17.00 The Works
+* Digital Easter egg hunt 15th April 10-3: We will be hiding Easter egg QR codes to find around the SPH building and Uren L11- there will be a chocolate giveaway for competitors!
 
-* Pub trip - Thursday 27th March [11th Floor Cocktail Club in the Uren Building, followed by the Pavillion]
+* Board Games Night –Coming soon in May (date TBC)
 
+* Bouldering – See the Bouldering channel on Teams for details and any questions- next happening in May (date TBC)
+
+* International cook-off May 29th: details coming soon
 
 ## Events by MOVE Imperial
+
+**Awaiting new timetable**
 
 * Pilates @ Collabor88 by Move Imperial Monday 18.30-19.30 [every Mon until March 21st]
 
@@ -30,7 +35,11 @@
 
 ## Past events
 
-* DIDE Book Appreciation Club, last meeting 6th March
+* Pub trip - Thursday 27th March 11th Floor cocktail night
+
+* March photo competition: congratulations to our winner Rich!
+
+* DIDE Book Appreciation Club (happens every 2 weeks)
 
 * February photo competition: congratulations to our winner Pete!
 

@@ -18,6 +18,8 @@
 
 * Bouldering – See the Bouldering channel on Teams for details and any questions- next happening in May (date TBC)
 
+* International cook-off May 29th: details coming soon
+
 ## Events by MOVE Imperial
 
 **Awaiting new timetable**

@@ -18,7 +18,7 @@
 
 * Bouldering – See the Bouldering channel on Teams for details and any questions- next happening in May (date TBC)
 
-* International cook-off May 29th: details coming soon
+* International Bake Off (May 29th 12:30-1:30pm) judged by Ruth McCabe, Anne Cori & Azra Ghani. SPH 4th Floor Kitchen. Sign-ups opening after Easter 
 
 ## Events by MOVE Imperial
 

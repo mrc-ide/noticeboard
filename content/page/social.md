@@ -6,34 +6,38 @@
 
 ## Coming up
 
-* April DIDE photo competition, theme: photos from my holiday/college closure, deadline for entries noon 29th April [Click here for entry form](https://forms.gle/tVEavFUxAJFEYCxN9) or email your entry to dide-social@imperial.ac.uk
+* April DIDE photo competition, theme: photos from my holiday/college closure, votes now open in the social channel on teams
 
-* French language coffee: Next Thurs 3rd April 11am SPH L4 kitchen
-
-* DIDE Book Appreciation Club,  Thursday 12.30 every 2 weeks. Next happening 3rd April
-
-* Digital Easter egg hunt 15th April 10-3: We will be hiding Easter egg QR codes to find around the SPH building and Uren L11- there will be a chocolate giveaway for competitors!
+* DIDE Book Appreciation Club,  Thursday 12.30 every 2 weeks. Next happening 1st May
 
 * Board Games Night –Coming soon in May (date TBC)
 
 * Bouldering – See the Bouldering channel on Teams for details and any questions- next happening in May (date TBC)
 
-* International cook-off May 29th: details coming soon
+* Charity bake sale 29th April
 
 ## Events by MOVE Imperial
 
-**Awaiting new timetable**
+* Circuits @ Scalespace by Move Imperial Monday 12.15-13.00 [every Mon except bank holidays until 27th June]
 
-* Pilates @ Collabor88 by Move Imperial Monday 18.30-19.30 [every Mon until March 21st]
+* Pilates @ Collabor88 by Move Imperial Monday 18.30-19.30 [every Mon except bank holidays until 27th June]
 
-* Yoga @ Collabor88 by Move Imperial Tuesday 18.00-19.00 [every Tuesday until March 21st]
+* Pilates @ Collabor88 by Move Imperial Tuesday 12.15-13.00 [every Mon until 27th June]
 
-* Social run club @ Michael Uren Hub by Move Imperial Weds 12.55-13.45 [every Wednesday until March 21st]
+* Yoga @ Collabor88 by Move Imperial Tuesday 18.00-18.45 [every Tuesday until 27th June]
 
-* 5-a-side football @ Scale Space by Move Imperial Weds 17.00-18.00 [most Wednesdays until March 21st]
+* Social run club @ Michael Uren Hub by Move Imperial Weds 12.55-13.45 [every Wednesday until 27th June]
+
+* Legs, Bums and Tums @ Collabor88 by Move Imperial Thurs 16.15-17.00 [every Thurs until 27th June]
+
+* 5-a-side football @ Scale Space by Move Imperial Thurs 17.00-18.00 [every Thurs until 27th June]
 
 
 ## Past events
+
+* Digital Easter egg hunt 15th April 10-3
+
+* French language coffee: Next Thurs 3rd April 11am SPH L4 kitchen
 
 * Pub trip - Thursday 27th March 11th Floor cocktail night
 

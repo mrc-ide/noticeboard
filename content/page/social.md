@@ -14,7 +14,8 @@
 
 * Bouldering – See the Bouldering channel on Teams for details and any questions- next happening in May (date TBC)
 
-* Charity bake sale 29th April
+* Pub trip, Thursday 8th of May (Location TBC)
+  
 
 ## Events by MOVE Imperial
 
@@ -34,6 +35,8 @@
 
 
 ## Past events
+
+* Charity bake sale 29th April
 
 * Digital Easter egg hunt 15th April 10-3
 

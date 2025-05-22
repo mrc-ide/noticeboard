@@ -6,16 +6,15 @@
 
 ## Coming up
 
-* April DIDE photo competition, theme: photos from my holiday/college closure, votes now open in the social channel on teams
+* May DIDE photo competition, theme: Unexpected perspectives: a different view of something mundane or everyday. Votes now open in the social channel on Teams, closing May 27th.
 
-* DIDE Book Appreciation Club,  Thursday 12.30 every 2 weeks. Next happening 1st May
+* DIDE Book Appreciation Club,  Thursday 12.30 every 2 weeks. Next happening 29th May.
 
-* Board Games Night –Coming soon in May (date TBC)
+* Board Games Night - Next event Thursday 5th June, 5pm onwards, beginning in SPH room 310 (decamping elsewhere if we continue past 7pm).
 
 * Bouldering – See the Bouldering channel on Teams for details and any questions- next happening in May (date TBC)
 
-* Pub trip, Thursday 8th of May (Location TBC)
-  
+* Pub trip - Next event TBA  
 
 ## Events by MOVE Imperial
 
@@ -40,9 +39,11 @@
 
 * Digital Easter egg hunt 15th April 10-3
 
-* French language coffee: Next Thurs 3rd April 11am SPH L4 kitchen
+* French language coffee: Thursday 3rd April 11am SPH L4 kitchen
 
 * Pub trip - Thursday 27th March 11th Floor cocktail night
+
+* Board Games Night 2, Tuesday 25th March
 
 * March photo competition: congratulations to our winner Rich!
 
@@ -50,7 +51,7 @@
 
 * February photo competition: congratulations to our winner Pete!
 
-* Boardgames night (with snacks), Thursday 27th February
+* Board Games Night 1, Thursday 27th February
 
 * Pub trip @ Pavilion Various dates, last trip 11th March
   

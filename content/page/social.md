@@ -6,13 +6,17 @@
 
 ## Coming up
 
-* May DIDE photo competition, theme: Unexpected perspectives: a different view of something mundane or everyday. Votes now open in the social channel on Teams, closing May 27th.
-
-* DIDE Book Appreciation Club,  Thursday 12.30 every 2 weeks. Next happening 29th May.
+* June DIDE photo competition, check out the social channel on Teams for details, closing June 30th.
 
 * Board Games Night - Next event Thursday 5th June, 5pm onwards, beginning in SPH room 310 (decamping elsewhere if we continue past 7pm).
 
-* Bouldering – See the Bouldering channel on Teams for details and any questions- next happening in May (date TBC)
+* DIDE Book Appreciation Club,  Thursday 12.30 every 2 weeks. Next happening 12th June.
+
+* Leaving drinks for Zara. 12th June Dear Grace
+
+* Post-viva drinks for Julia and Lanre. 16th June The Broadcaster
+
+* Bouldering – See the Bouldering channel on Teams for details and any questions- next happening in July (date TBC)
 
 * Pub trip - Next event TBA  
 

@@ -18,7 +18,7 @@
 
 * Bouldering – See the Bouldering channel on Teams for details and any questions- next happening in July (date TBC)
 
-* Pub trip - Next event TBA  
+* Pub trip - Next occasion will be on Tuesday 3rd June at The Pavilion  
 
 ## Events by MOVE Imperial
 

@@ -6,19 +6,19 @@
 
 ## Coming up
 
+* Uren Building 11th Floor cocktail club 19th June 17:00-19:00 - [details](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1749720102264?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1749720102264&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1749720102264)
+
+* DIDE Book Appreciation Club,  Thursday 12.30 every 2 weeks. Next happening 25th June.
+
 * June DIDE photo competition, check out the social channel on Teams for details, closing June 30th.
 
-* Board Games Night - Next event Thursday 5th June, 5pm onwards, beginning in SPH room 310 (decamping elsewhere if we continue past 7pm).
-
-* DIDE Book Appreciation Club,  Thursday 12.30 every 2 weeks. Next happening 12th June.
-
-* Leaving drinks for Zara. 12th June Dear Grace
-
-* Post-viva drinks for Julia and Lanre. 16th June The Broadcaster
+* Board Games Night - Next event Thursday 10th July, 5pm onwards, beginning in SPH room 310 (decamping elsewhere if we continue past 7pm) - [details](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1750329242712?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1750329242712&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1750329242712)
 
 * Bouldering – See the Bouldering channel on Teams for details and any questions- next happening in July (date TBC)
 
-* Pub trip - Next occasion will be on Tuesday 3rd June at The Pavilion  
+* Pub trip - Next occasion TBA
+
+* French language coffee - Next occasion TBA
 
 ## Events by MOVE Imperial
 
@@ -36,8 +36,15 @@
 
 * 5-a-side football @ Scale Space by Move Imperial Thurs 17.00-18.00 [every Thurs until 27th June]
 
-
 ## Past events
+
+* Brain Sciences LGBTQ+ Allies Network Summer Social 19th June
+
+* Post-viva drinks for Julia and Lanre. 16th June The Broadcaster
+
+* Leaving drinks for Zara. 12th June Dear Grace
+
+* Board Games Night 5th June
 
 * Charity bake sale 29th April
 

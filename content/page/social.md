@@ -18,7 +18,7 @@
 
 * July DIDE photo competition, check out the social channel on Teams for details, closing July 31st
 
-* Pub trip - Next occasion TBA
+* Pub trip - The next one will be Tuesday July 15th, The Pavilion
 
 * French language coffee - Next occasion TBA
 

@@ -14,7 +14,9 @@
 
 * Leaving drinks for Catherine Troman 24th July
 
-* Wednesday food trucks - Kerb at White City
+* [KERB Lunch Market](https://www.kerbfood.com/markets/white-city/) every Wednesday from 11.30-14.30 at White City Place
+
+* Street Food Market every Thursday on White City Campus from 12.00-15.00 in the quad on the north side, outside The Works
 
 * July DIDE photo competition, check out the social channel on Teams for details, closing July 31st
 

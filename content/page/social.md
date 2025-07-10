@@ -8,13 +8,15 @@
 
 * DIDE Book Appreciation Club,  Thursday 12.30 every 2 weeks. Next happening 23rd July
 
-* Board Games Night - Next event Thursday 10th July, 5pm onwards, beginning in SPH room 310 (decamping elsewhere if we continue past 7pm) - [details](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1750329242712?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1750329242712&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1750329242712)
+* Board Games Night - Next event Thursday 17th July, 5pm onwards, beginning in SPH room 310 (decamping elsewhere if we continue past 7pm) - [details](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1750329242712?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1750329242712&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1750329242712)
 
 * Bouldering – next happening July 17th- see the [Bouldering channel](https://teams.microsoft.com/l/channel/19%3Ac670ba9048344213b0736a2348a1e709%40thread.tacv2/Bouldering?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307) for details
 
 * Leaving drinks for Catherine Troman 24th July
 
-* Wednesday food trucks - Kerb at White City
+* [KERB Lunch Market](https://www.kerbfood.com/markets/white-city/) every Wednesday from 11.30-14.30 at White City Place
+
+* Street Food Market every Thursday on White City Campus from 12.00-15.00 in the quad on the north side, outside The Works
 
 * July DIDE photo competition, check out the social channel on Teams for details, closing July 31st
 

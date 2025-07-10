@@ -18,7 +18,7 @@
 
 * July DIDE photo competition, check out the social channel on Teams for details, closing July 31st
 
-* Pub trip - The next one will be Tuesday July 15th, The Pavilion
+* Pub trip - The next one will be Tuesday July 15th (at Dear Grace, for Charlie's leaving drinks)
 
 * French language coffee - Next occasion TBA
 

@@ -20,7 +20,7 @@
 
 * Street Food Market every Thursday on White City Campus from 12.00-15.00 in the quad on the north side, outside The Works
 
-* July DIDE photo competition, Water theme, voting currently in progress on winner (see [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1754044773244?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1754044773244&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1754044773244)); winner to be announced on 7th August, August competition TBA
+* August DIDE photo competition, Growth theme, see details [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1754915167428?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1754915167428&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1754915167428); entries close Friday 29th August
 
 * Pub trip - next event TBA
 

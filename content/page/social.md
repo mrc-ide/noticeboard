@@ -8,11 +8,9 @@
 
 ## Coming up
 
-* Leaving drinks for Catherine Troman 24th July
-  
-* After work walk (organised by Joe & Arran) on Wednesday July 30th. From SPH Building to the riverside at Hammersmith (leaving department around 4:45pm)
+* Leaving drinks for Arran Hamlet Tuesday 12th August at [Dear Grace](https://www.deargracelondon.co.uk/) from 5.30pm
 
-* Board Games Night - Next event Thursday 28th August, details TBA
+* Board Games Night - next event Thursday 28th August, details [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1753966220980?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1753966220980&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1753966220980)
 
 * DIDE Book Appreciation Club,  Wednesday 12.30 every 2 weeks. Next event TBA
 
@@ -22,7 +20,7 @@
 
 * Street Food Market every Thursday on White City Campus from 12.00-15.00 in the quad on the north side, outside The Works
 
-* July DIDE photo competition, check out the Social channel on Teams for details, closing July 31st
+* August DIDE photo competition, Growth theme, see details [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1754915167428?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1754915167428&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1754915167428); entries close Friday 29th August
 
 * Pub trip - next event TBA
 
@@ -41,6 +39,10 @@
 * Legs, Bums and Tums @ Collabor88 by Move Imperial Thurs 16.15-17.00
 
 ## Past events
+  
+* After work walk (organised by Joe & Arran) on Wednesday July 30th
+
+* Leaving drinks for Catherine Troman 24th July
 
 * Board Games Night 17th July
 

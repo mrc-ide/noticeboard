@@ -22,7 +22,7 @@
 
 * August DIDE photo competition, Growth theme, see details [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1754915167428?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1754915167428&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1754915167428); entries close Friday 29th August
 
-* Pub trip - next event TBA
+* Pub trip - next event 11th of September at the Pavillion
 
 * French language coffee - Next occasion TBA
 

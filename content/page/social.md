@@ -8,9 +8,11 @@
 
 ## Coming up
 
-* Leaving drinks for Arran Hamlet Tuesday 12th August at [Dear Grace](https://www.deargracelondon.co.uk/) from 5.30pm
+* Pub trip - next event 11th September at the [Pavilion](https://www.greeneking.co.uk/pubs/greater-london/pavilion)
 
-* Board Games Night - next event Thursday 28th August, details [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1753966220980?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1753966220980&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1753966220980)
+* August DIDE photo competition, Growth theme, entries now closed; click [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1756716958832?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1756716958832&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1756716958832) to see the entries and vote on the winners (voting ends Thursday 4th September, after which the September competition will begin with a theme decided by the August winner)
+
+* Board Games Night, held roughly every 4-6 weeks - next event to be held in early/mid-October, poll on dates [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1756469820701?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1756469820701&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1756469820701); spreadsheet of games available through participants [here](https://docs.google.com/spreadsheets/d/1KcSc8wGN9Y1qARfjPfltCUhrkV-hwWd9eQHPt9BgX7k/edit?gid=388218102)
 
 * DIDE Book Appreciation Club,  Wednesday 12.30 every 2 weeks. Next event TBA
 
@@ -19,10 +21,6 @@
 * [KERB Lunch Market](https://www.kerbfood.com/markets/white-city/) every Wednesday from 11.30-14.30 at White City Place
 
 * Street Food Market every Thursday on White City Campus from 12.00-15.00 in the quad on the north side, outside The Works
-
-* August DIDE photo competition, Growth theme, see details [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1754915167428?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1754915167428&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1754915167428); entries close Friday 29th August
-
-* Pub trip - next event 11th of September at the Pavillion
 
 * French language coffee - Next occasion TBA
 
@@ -39,12 +37,12 @@
 * Legs, Bums and Tums @ Collabor88 by Move Imperial Thurs 16.15-17.00
 
 ## Past events
+
+* Leaving drinks for Arran Hamlet Tuesday 12th August at [Dear Grace](https://www.deargracelondon.co.uk/)
   
 * After work walk (organised by Joe & Arran) on Wednesday July 30th
 
 * Leaving drinks for Catherine Troman 24th July
-
-* Board Games Night 17th July
 
 * Leaving drinks for Charlie Whittaker and Trystan Leng 15th July at Dear Grace
 
@@ -56,48 +54,9 @@
 
 * Leaving drinks for Zara. 12th June Dear Grace
 
-* Board Games Night 5th June
-
 * Charity bake sale 29th April
 
 * Digital Easter egg hunt 15th April 10-3
-
-* French language coffee: Thursday 3rd April 11am SPH L4 kitchen
-
-* Pub trip - Thursday 27th March 11th Floor cocktail night
-
-* Board Games Night 2, Tuesday 25th March
-
-* March photo competition: congratulations to our winner Rich!
-
-* DIDE Book Appreciation Club (happens every 2 weeks)
-
-* February photo competition: congratulations to our winner Pete!
-
-* Board Games Night 1, Thursday 27th February
-
-* Pub trip @ Pavilion Various dates, last trip 11th March
-  
-* Coffee meet-up, level 4, Thursday 23rd January at 1.30pm
-  
-* Walk Wednesday 22nd January, meet at 12.30pm in the foyer
-
-* Cyril Geismar PhD post-viva celebration 16th December
-
-* DIDE Christmas lunch @ Puttshack 11th December
-
-* Walk to Kensington Memorial 6th Nov 1pm [meet in SPH foyer]
-
-* Lucy Williams PhD post-viva celebration 4th November
-
-* Walk to Wormwood scrubs on Wednesday 30th October, 1pm
-
-* Frights and bites bake-off 24th October
-
-* Giovanni Charles PhD post-viva celebration 21st October
-
-* Cocktail night and leaving drinks for Lucy Williams
-  5pm 11th October Uren building
 
 ## Contacts
 

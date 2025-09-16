@@ -14,7 +14,7 @@
 
 * Short course closing drinks, [Pavilion](https://www.greeneking.co.uk/pubs/greater-london/pavilion), Friday 26th September from 4:05pm
 
-* September DIDE photo competition, theme: The City. Closing date for submissionf Friday 26th September, details and submission link [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1757326990254?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1757326990254&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1757326990254)
+* September DIDE photo competition, theme: The City. Closing date for submission Friday 26th September, details and submission link [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1757326990254?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1757326990254&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1757326990254)
 
 * Leaving drinks for Thom Rawson, [Dear Grace](https://www.deargracelondon.co.uk/), Tuesday 30th September from 5:30pm
 

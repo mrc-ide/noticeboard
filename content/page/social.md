@@ -6,21 +6,21 @@
 
 [Link to Social channel on Teams](https://teams.microsoft.com/l/channel/19%3Afe29e82660f74575a9d515de83d01afa%40thread.tacv2/Social?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307)
 
-## Coming up
-
-* Leaving drinks for Gina Cuomo-Dannenburg, [Dear Grace](https://www.deargracelondon.co.uk/), Tuesday 16th September from 5:30pm
+## Coming up - individual events
 
 * Short course pub quiz, [Defector's Weld](https://www.defectors-weld.co.uk/), Wednesday 24th September from 5:10pm
 
 * Short course closing drinks, [Pavilion](https://www.greeneking.co.uk/pubs/greater-london/pavilion), Friday 26th September from 4:05pm
 
-* September DIDE photo competition, theme: The City. Closing date for submissionf Friday 26th September, details and submission link [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1757326990254?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1757326990254&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1757326990254)
-
 * Leaving drinks for Thom Rawson, [Dear Grace](https://www.deargracelondon.co.uk/), Tuesday 30th September from 5:30pm
 
-* Board Games Night ([Teams channel](https://teams.microsoft.com/l/channel/19%3A82252a71aea14afdb79f3b14bb0efc5d%40thread.tacv2/Board%20Games%20Events?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307)), held roughly every 4-6 weeks - next event to be held Thursday 9th October from 5pm in SPH 310; spreadsheet of games available through participants [here](https://docs.google.com/spreadsheets/d/1KcSc8wGN9Y1qARfjPfltCUhrkV-hwWd9eQHPt9BgX7k/edit?gid=388218102)
-
 * Leaving drinks for Rich Fitzjohn, [Pavilion](https://www.greeneking.co.uk/pubs/greater-london/pavilion), Thursday 16th October from 6:30pm
+
+## Regular events (with next date where available)
+
+* DIDE monthly photo competition, September theme: The City. Closing date for submission Friday 26th September, details and submission link [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1757326990254?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1757326990254&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1757326990254)
+
+* Board Games Night ([Teams channel](https://teams.microsoft.com/l/channel/19%3A82252a71aea14afdb79f3b14bb0efc5d%40thread.tacv2/Board%20Games%20Events?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307)), held roughly every 4-6 weeks - next event to be held Thursday 9th October from 5pm in SPH 310; spreadsheet of games available through participants [here](https://docs.google.com/spreadsheets/d/1KcSc8wGN9Y1qARfjPfltCUhrkV-hwWd9eQHPt9BgX7k/edit?gid=388218102)
 
 * DIDE Book Appreciation Club,  Wednesday 12.30 every 2 weeks. Next event TBA
 
@@ -34,19 +34,21 @@
 
 * Pub trip - next event TBA
 
-## Events by MOVE Imperial 14th July - 22nd August
+## Weekly events by MOVE Imperial (schedule running 29th September - 12th December)
 
 * Pilates @ Collabor88 by Move Imperial Monday 18.30-19.30 
 
-* Pilates @ Collabor88 by Move Imperial Tuesday 12.15-13.00 
-
-* Yoga @ Collabor88 by Move Imperial Tuesday 18.00-18.45 
+* Yoga @ Collabor88 by Move Imperial Tuesday 18.00-19.00
 
 * Social run club @ Michael Uren Hub by Move Imperial Weds 12.55-13.45 
 
-* Legs, Bums and Tums @ Collabor88 by Move Imperial Thurs 16.15-17.00
+* 5-A-Side Football @ ScaleSpace by Move Imperial Thurs 17.00-18.00
+
+* Pilates @ Collabor88 by Move Imperial Thurs 18.00-19.00
 
 ## Past events
+
+* Leaving drinks for Gina Cuomo-Dannenburg, [Dear Grace](https://www.deargracelondon.co.uk/), Tuesday 16th September from 5:30pm
 
 * Leaving drinks for Arran Hamlet Tuesday 12th August at [Dear Grace](https://www.deargracelondon.co.uk/)
   
@@ -63,10 +65,6 @@
 * Post-viva drinks for Julia and Lanre. 16th June The Broadcaster
 
 * Leaving drinks for Zara. 12th June Dear Grace
-
-* Charity bake sale 29th April
-
-* Digital Easter egg hunt 15th April 10-3
 
 ## Contacts
 

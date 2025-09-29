@@ -44,6 +44,10 @@
 
 ## Past events
 
+* Short course pub quiz, [Defector's Weld](https://www.defectors-weld.co.uk/), Wednesday 24th September from 5:10pm
+
+* Short course closing drinks, [Pavilion](https://www.greeneking.co.uk/pubs/greater-london/pavilion), Friday 26th September from 4:05pm
+
 * Leaving drinks for Gina Cuomo-Dannenburg, [Dear Grace](https://www.deargracelondon.co.uk/), Tuesday 16th September from 5:30pm
 
 * Leaving drinks for Arran Hamlet Tuesday 12th August at [Dear Grace](https://www.deargracelondon.co.uk/)

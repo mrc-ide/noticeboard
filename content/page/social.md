@@ -8,17 +8,13 @@
 
 ## Coming up - individual events
 
-* Short course pub quiz, [Defector's Weld](https://www.defectors-weld.co.uk/), Wednesday 24th September from 5:10pm
-
-* Short course closing drinks, [Pavilion](https://www.greeneking.co.uk/pubs/greater-london/pavilion), Friday 26th September from 4:05pm
-
 * Leaving drinks for Thom Rawson, [Dear Grace](https://www.deargracelondon.co.uk/), Tuesday 30th September from 5:30pm
 
 * Leaving drinks for Rich Fitzjohn, [Pavilion](https://www.greeneking.co.uk/pubs/greater-london/pavilion), Thursday 16th October from 6:30pm
 
 ## Regular events (with next date where available)
 
-* DIDE monthly photo competition, September theme: The City. Closing date for submission Friday 26th September, details and submission link [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1757326990254?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1757326990254&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1757326990254)
+* DIDE monthly photo competition, September theme: The City. Voting now open on entries, details [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1759134791466?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1759134791466&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1759134791466)
 
 * Board Games Night ([Teams channel](https://teams.microsoft.com/l/channel/19%3A82252a71aea14afdb79f3b14bb0efc5d%40thread.tacv2/Board%20Games%20Events?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307)), held roughly every 4-6 weeks - next event to be held Thursday 9th October from 5pm in SPH 310; spreadsheet of games available through participants [here](https://docs.google.com/spreadsheets/d/1KcSc8wGN9Y1qARfjPfltCUhrkV-hwWd9eQHPt9BgX7k/edit?gid=388218102)
 
@@ -47,6 +43,10 @@
 * Pilates @ Collabor88 by Move Imperial Thurs 18.00-19.00
 
 ## Past events
+
+* Short course pub quiz, [Defector's Weld](https://www.defectors-weld.co.uk/), Wednesday 24th September from 5:10pm
+
+* Short course closing drinks, [Pavilion](https://www.greeneking.co.uk/pubs/greater-london/pavilion), Friday 26th September from 4:05pm
 
 * Leaving drinks for Gina Cuomo-Dannenburg, [Dear Grace](https://www.deargracelondon.co.uk/), Tuesday 16th September from 5:30pm
 

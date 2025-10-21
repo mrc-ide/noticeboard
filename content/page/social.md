@@ -14,13 +14,17 @@ If you are a PhD student, there are more socials. Please contact [Nieves](mailto
 
 ## Coming up - individual events
 
-* Leaving drinks for Rich Fitzjohn, [Pavilion](https://www.greeneking.co.uk/pubs/greater-london/pavilion), Thursday 16th October from 6:30pm
+* World Food Day, School of Public Health 1st floor, Wednesday 29th October 1-3pm
+
+* Advent of Code (and mince pies), School of Public Health room 513, Thursday 4th December 2-3.30pm
+
+* Christmas lunch, [The Garden Bar](https://www.gardenbarw10.com/), Wednesday 17th December from 2pm (see item on shared calendar or contact Francesca Tracey for more details)
 
 ## Regular events (with next date where available)
 
 * DIDE monthly photo competition, October theme: the spirit of October; details [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1759736938036?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1759736938036&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1759736938036)
 
-* Board Games Night ([Teams channel](https://teams.microsoft.com/l/channel/19%3A82252a71aea14afdb79f3b14bb0efc5d%40thread.tacv2/Board%20Games%20Events?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307)), held roughly every 4-6 weeks - next event TBA
+* Board Games Night ([Teams channel](https://teams.microsoft.com/l/channel/19%3A82252a71aea14afdb79f3b14bb0efc5d%40thread.tacv2/Board%20Games%20Events?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307)), held roughly every 4-6 weeks - next event TBA (poll on possible dates [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1761043136984?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1761043136984&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1761043136984))
   
 * DIDE Book Appreciation Club,  Wednesday 12.30 every 2 weeks. Next event TBA
 
@@ -47,6 +51,8 @@ If you are a PhD student, there are more socials. Please contact [Nieves](mailto
 * Pilates @ Collabor88 by Move Imperial Thurs 18.00-19.00
 
 ## Past events
+
+* Leaving drinks for Rich Fitzjohn, [Pavilion](https://www.greeneking.co.uk/pubs/greater-london/pavilion), Thursday 16th October from 6:30pm
 
 * Leaving drinks for Thom Rawson, [Dear Grace](https://www.deargracelondon.co.uk/), Tuesday 30th September from 5:30pm
 

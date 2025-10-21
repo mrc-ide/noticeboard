@@ -6,18 +6,26 @@
 
 [Link to Social channel on Teams](https://teams.microsoft.com/l/channel/19%3Afe29e82660f74575a9d515de83d01afa%40thread.tacv2/Social?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307)
 
+## Contacts
+
+General queries: [DIDE social committee](mailto:dide-social@imperial.ac.uk)
+
+If you are a PhD student, there are more socials. Please contact [Nieves](mailto:n.derqui-fernandez@imperial.ac.uk) or [Kelly](mailto:k.mccain22@imperial.ac.uk) for upcoming events.
+
 ## Coming up - individual events
 
-* Leaving drinks for Thom Rawson, [Dear Grace](https://www.deargracelondon.co.uk/), Tuesday 30th September from 5:30pm
+* World Food Day, School of Public Health 1st floor, Wednesday 29th October 1-3pm
 
-* Leaving drinks for Rich Fitzjohn, [Pavilion](https://www.greeneking.co.uk/pubs/greater-london/pavilion), Thursday 16th October from 6:30pm
+* Advent of Code (and mince pies), School of Public Health room 513, Thursday 4th December 2-3.30pm
+
+* Christmas lunch, [The Garden Bar](https://www.gardenbarw10.com/), Wednesday 17th December from 2pm (see item on shared calendar or contact Francesca Tracey for more details)
 
 ## Regular events (with next date where available)
 
-* DIDE monthly photo competition, September theme: The City. Voting now open on entries, details [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1759134791466?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1759134791466&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1759134791466)
+* DIDE monthly photo competition, October theme: the spirit of October; details [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1759736938036?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1759736938036&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1759736938036)
 
-* Board Games Night ([Teams channel](https://teams.microsoft.com/l/channel/19%3A82252a71aea14afdb79f3b14bb0efc5d%40thread.tacv2/Board%20Games%20Events?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307)), held roughly every 4-6 weeks - next event to be held Thursday 9th October from 5pm in SPH 310; spreadsheet of games available through participants [here](https://docs.google.com/spreadsheets/d/1KcSc8wGN9Y1qARfjPfltCUhrkV-hwWd9eQHPt9BgX7k/edit?gid=388218102)
-
+* Board Games Night ([Teams channel](https://teams.microsoft.com/l/channel/19%3A82252a71aea14afdb79f3b14bb0efc5d%40thread.tacv2/Board%20Games%20Events?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307)), held roughly every 4-6 weeks - next event TBA (poll on possible dates [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1761043136984?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1761043136984&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1761043136984))
+  
 * DIDE Book Appreciation Club,  Wednesday 12.30 every 2 weeks. Next event TBA
 
 * Bouldering – next event TBA - see the [Bouldering channel](https://teams.microsoft.com/l/channel/19%3Ac670ba9048344213b0736a2348a1e709%40thread.tacv2/Bouldering?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307) for details
@@ -44,6 +52,10 @@
 
 ## Past events
 
+* Leaving drinks for Rich Fitzjohn, [Pavilion](https://www.greeneking.co.uk/pubs/greater-london/pavilion), Thursday 16th October from 6:30pm
+
+* Leaving drinks for Thom Rawson, [Dear Grace](https://www.deargracelondon.co.uk/), Tuesday 30th September from 5:30pm
+
 * Short course pub quiz, [Defector's Weld](https://www.defectors-weld.co.uk/), Wednesday 24th September from 5:10pm
 
 * Short course closing drinks, [Pavilion](https://www.greeneking.co.uk/pubs/greater-london/pavilion), Friday 26th September from 4:05pm
@@ -65,9 +77,3 @@
 * Post-viva drinks for Julia and Lanre. 16th June The Broadcaster
 
 * Leaving drinks for Zara. 12th June Dear Grace
-
-## Contacts
-
-If you are a PhD student, there are more socials. Please contact [Nieves](mailto:n.derqui-fernandez@imperial.ac.uk) or [Kelly](mailto:k.mccain22@imperial.ac.uk) for upcoming events.
-
-General queries: [DIDE social committee](mailto:dide-social@imperial.ac.uk)
